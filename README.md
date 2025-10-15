@@ -1,1 +1,1 @@
-![Lights for Arena](path/to/light.png)
+![Lights for Arena](light.png)
